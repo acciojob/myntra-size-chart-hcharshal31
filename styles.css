@@ -1,2 +1,24 @@
+table{
+	border-collapse: collapse;
+}
 
+th{
+	text-align: left;
+	background-color: #814141;
+	color: #ffffff;
+	font-family: Ariel;
+}
+
+#r2{
+	background-color: #E97451;
+	color: #ffffff;
+}
+
+#r3{
+	background-color: #F2D2BD;
+}
+
+#r4{
+	background-color: #EADDCA;
+}
 /* Your CSS Code here. */
